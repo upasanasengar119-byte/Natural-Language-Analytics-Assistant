@@ -1,0 +1,9 @@
+order_id,region,product,amount_paise
+S001,EU,course,10000
+S002,EU,book,3000
+S003,US,course,15000
+S004,IN,book,2000
+S005,IN,course,12000
+S006,EU,course,9000
+S007,US,book,4000
+S008,IN,course,8000
